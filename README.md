@@ -78,6 +78,17 @@ ZyraOS follows three core principles:
 
 ---
 
+## Downloading a browser
+
+ZyraOS comes with no browser! Please use one of the commands in powershell to install one:
+
+- **Firefox:** `winget install Mozilla.Firefox`
+- **Chrome:** `winget install Google.Chrome`
+- **Brave:** `winget install Brave.Brave`
+- **Opera:** `winget install Opera.Opera`
+
+---
+
 ## 🗓️ Release History
 
 ### **v1.0 — April 23, 2026**
